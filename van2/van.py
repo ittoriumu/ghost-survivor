@@ -1137,7 +1137,7 @@ class App:
             self.enemy_bullets = []
             self.bullets = []
             self.attacks = []
-            self.satellites = []
+            # self.satellites = []
             self.meteors = []
             self.cutters = [] # Clear cutters (New)
             return # Stop updating after game clear
